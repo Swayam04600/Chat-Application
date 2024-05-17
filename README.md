@@ -54,12 +54,12 @@ Ensure you have the following installed on your machine:
    ```
 
 5. **Open the application:**
-   Navigate to `http://localhost:3000` in your web browser.
+   Navigate to `http://localhost:3500` in your web browser.
 
 ## Usage
 
 1. **Open the Application:**
-   Navigate to `http://localhost:3000` in your web browser.
+   Navigate to `http://localhost:3500` in your web browser.
 
 2. **Start Chatting:**
    - Enter a chat room name to create or join a room.

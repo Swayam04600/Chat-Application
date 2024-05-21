@@ -1,4 +1,4 @@
-# ChitChat (Chat Application)
+# Chat Application
 
 Welcome to the Chat Application project! This is a web-based chat application that utilizes WebSockets to enable real-time communication between users. Below you'll find all the information you need to get started with the project.
 
@@ -9,7 +9,7 @@ Welcome to the Chat Application project! This is a web-based chat application th
 - Private and group chats
 - Typing indicators
 - Message notifications
-- Responsive design for mobile and desktop use
+- Multiple Chat Rooms
 
 ## Technologies Used
 
